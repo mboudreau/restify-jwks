@@ -39,8 +39,7 @@
     "jsonwebtoken": "^5.0.0",
     "jwks-utils": "^1.0.5",
     "pem-jwk": "^1.5.1",
-    "restify": "^4.0.3",
-    "restify-jwks": "^0.2.0"
+    "restify": "^4.0.3"
   },
   "devDependencies": {
     "mocha": "2.x.x"
