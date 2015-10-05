@@ -1,6 +1,6 @@
 {
   "name": "restify-jwks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "JWKs authentication middleware, based on restify-jwt",
   "keywords": [
     "auth",
@@ -39,7 +39,8 @@
     "jsonwebtoken": "^5.0.0",
     "jwks-utils": "^1.0.5",
     "pem-jwk": "^1.5.1",
-    "restify": "^4.0.3"
+    "restify": "^4.0.3",
+    "restify-jwt": "^0.2.0"
   },
   "devDependencies": {
     "mocha": "2.x.x"
